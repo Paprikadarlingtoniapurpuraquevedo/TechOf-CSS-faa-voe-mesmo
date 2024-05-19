@@ -1,0 +1,23 @@
+
+div {
+    border-style: solid;
+    border-left: 50px;
+}
+
+/* 
+    Comentário
+*/
+
+h1 {
+    border-style: groove;
+    border-radius: 10px;
+    border-width: 8px;
+    border-color: red;
+    margin: auto;
+}
+
+p {
+    border: dotted black 5px;
+    margin-top: 8px;
+    margin-left: inherit;
+}

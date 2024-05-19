@@ -1,0 +1,11 @@
+li {
+    display: inline;
+}
+
+#title-1 {
+    visibility: hidden;
+}
+
+#title-2 {
+    display: none;
+}

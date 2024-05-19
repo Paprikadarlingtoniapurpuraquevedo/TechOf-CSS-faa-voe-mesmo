@@ -1,0 +1,11 @@
+.center {
+    position: relative;
+    top: 45%;
+    left: 33%;
+}
+
+.bottom_right {
+    position: relative;
+    top: 75%;
+    left: 70%;
+}
